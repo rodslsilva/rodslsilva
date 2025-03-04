@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, eu sou Rodrigo! Atualmente, curso Análise e Desenvolvimento de Sistemas, e sou apaixonado por tecnologia, especialmente as áreas de back-end, cibersegurança, dados e lógica de programação. Além disso, tenho um grande interesse por literatura, o que ajuda a complementar minha visão criativa e analítica.</p>
+<p align="left">Olá, eu sou Rodrigo! Atualmente, curso Análise e Desenvolvimento de Sistemas, e sou apaixonado por tecnologia, especialmente as áreas de back-end, cibersegurança e dados. Além disso, tenho um grande interesse por literatura e lógica, o que ajuda a complementar minha visão criativa e analítica.</p>
 
 ###
 
@@ -38,9 +38,6 @@
   </a>
   <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/orodrigolarangeira/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
 
