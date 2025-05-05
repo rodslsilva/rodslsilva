@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💻 Habilidades Técnicas<br>- Desenvolvimento back-end e front-end<br>- Manipulação e análise de dados<br>- Raciocínio lógico para resolução de problemas<br><br><br>🎵 Fatos Pessoais<br>- Adoro música e toco viola e violão 🎸<br>- Gosto de me desafiar em partidas de xadrez ♟️<br>- Sempre que posso, mergulho em um bom livro 📚<br><br>📫 Como me encontrar<br>Você pode me contatar pelo meu GitHub ou por outras redes sociais</p>
+<p align="left">💻 Habilidades Técnicas<br>- Desenvolvimento back-end<br>- Manipulação e análise de dados<br>- Raciocínio lógico para resolução de problemas<br><br><br>🎵 Fatos Pessoais<br>- Adoro música e toco viola e violão 🎸<br>- Gosto de me desafiar em partidas de xadrez ♟️<br>- Sempre que posso, mergulho em um bom livro 📚<br><br>📫 Como me encontrar<br>Você pode me contatar pelo meu GitHub ou por outras redes sociais</p>
 
 ###
 
