@@ -6,19 +6,15 @@
 
 ###
 
-<p align="left">💻 Habilidades Técnicas<br>- Desenvolvimento Fullstack<br>- Manipulação e análise de dados<br>- Raciocínio lógico para resolução de problemas<br><br><br>🎵 Fatos Pessoais<br>- Adoro música e toco viola e violão 🎸<br>- Gosto de me desafiar em partidas de xadrez ♟️<br>- Sempre que posso, mergulho em um bom livro 📚<br><br>📫 Como me encontrar<br>Você pode me contatar pelo meu GitHub ou por outras redes sociais</p>
+<p align="left">💻 Habilidades Técnicas<br>- Desenvolvimento Fullstack<br>- Manipulação e análise de dados<br>- Raciocínio lógico para resolução de problemas<br><br>🎵 Fatos Pessoais<br>- Adoro música e toco viola e violão 🎸<br>- Gosto de me desafiar em partidas de xadrez ♟️<br>- Sempre que posso, mergulho em um bom livro 📚<br><br>📫 Como me encontrar<br>Você pode me contatar pelo meu GitHub ou por outras redes sociais</p>
 
 ###
 
-<h2 align="left">Ferramentas</h2>
+<h2 align="center">Ferramentas</h2>
 
 ###
 
-<p align="left">Excel<br>Power BI</p>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -34,11 +30,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
 
 <div align="left">
+</div>
+
+###
+
+<h2 align="center">Contatos</h2>
+
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/perfill-rodrigo-larangeira/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
