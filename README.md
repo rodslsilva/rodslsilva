@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Olá, eu sou Rodrigo! Atualmente, curso Análise e Desenvolvimento de Sistemas, e sou apaixonado por tecnologia. Além disso, tenho um grande interesse por literatura e lógica, o que ajuda a complementar minha visão criativa e analítica.</p>
+<p align="left">Olá, eu sou Rodrigo! Atualmente, curso Análise e Desenvolvimento de Sistemas. Além disso, tenho um grande interesse por literatura e lógica, o que ajuda a complementar minha visão criativa e analítica.</p>
 
 ###
 
-<p align="left">💻 Habilidades Técnicas<br>- Desenvolvimento Fullstack<br>- Manipulação e análise de dados<br>- Raciocínio lógico para resolução de problemas<br><br>🎵 Fatos Pessoais<br>- Adoro música e toco viola e violão 🎸<br>- Gosto de me desafiar em partidas de xadrez ♟️<br>- Sempre que posso, mergulho em um bom livro 📚<br><br>📫 Como me encontrar<br>Você pode me contatar pelo meu GitHub ou por outras redes sociais</p>
+<p align="left">💻 Habilidades Técnicas<br>- Desenvolvimento Fullstack<br>- Manipulação e análise de dados<br>- Raciocínio lógico para resolução de problemas<br><br>🎵 Fatos Pessoais<br>- Gosto de me desafiar em partidas de xadrez ♟️<br>- Sempre que posso, mergulho em um bom livro 📚<br><br>📫 Como me encontrar<br>Você pode me contatar pelo meu GitHub ou por outras redes sociais</p>
 
 ###
 
